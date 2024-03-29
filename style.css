@@ -1,0 +1,58 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    max-width: 1920px;
+    width: 100%;
+
+}
+
+table {
+    border-collapse: collapse;
+    text-align: center;
+    margin: auto;
+    margin-top: 40px;
+
+}
+
+td {
+    width: 10px;
+    height: 10px;
+    border: 1px solid black;
+  
+    
+}
+.PicselArt{
+    text-align: center;
+}
+h1 {
+    font-size: 48px;
+    color: rgb(72, 72, 192);
+    font-family: "Montserrat";
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 30px;
+}
+label{
+    font-size: 20px;
+    margin: 0 10px;
+}
+button{
+    border-radius: 5px;
+    padding: 20px 25px;
+    border: none;
+    font: inherit;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    background-color: rgb(72, 72, 192);
+    cursor: pointer;
+    font-family: "Roboto";
+    margin-top: 40px;
+    
+   
+
+}
